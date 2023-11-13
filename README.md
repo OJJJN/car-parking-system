@@ -1,4 +1,4 @@
-![image](https://github.com/OJJJN/car-parking-system/assets/99503707/a25121e2-bfdb-4064-9161-ecedb56170af)# CPS
+# CPS
 
 # CAR PARKING SYSTEM
 CPS OR CAR PARKING SYSTEM IS A DESKTOP APPLICATION THAT CAN DETECT HOW MANY CARS IN YOUR PARKING LOT 
@@ -22,4 +22,12 @@ Just typing "pip install -r requirements.txt"
 - Clone This Repository
 - pip install -r requirements.tx
 - Run py cpstart.py
+
+## Run Test
+![Run](https://github.com/OJJJN/car-parking-system/assets/99503707/0ae3148d-d283-444e-8487-491747435672)
+
+## Database Directory
+![Database](https://github.com/OJJJN/car-parking-system/assets/99503707/f45086be-15ef-47fe-8162-92c342703ff1)
+
+
 
