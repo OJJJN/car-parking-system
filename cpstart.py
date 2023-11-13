@@ -23,7 +23,7 @@ net = cv2.dnn.readNetFromONNX(model)
 classes = (0)
 
 # Dahua CCTV camera settings
-rtsp_url = 'rtsp://admin:DCTGroup18@10.10.12.14:554/cam/realmonitor?channel=1&subtype=0'  # Replace with your Dahua CCTV camera RTSP URL
+rtsp_url = 'rtsp://admin:yourpaswword@yourip:554/cam/realmonitor?channel=1&subtype=0'  # Replace with your Dahua CCTV camera RTSP URL
 
 cap = cv2.VideoCapture(rtsp_url)
 
