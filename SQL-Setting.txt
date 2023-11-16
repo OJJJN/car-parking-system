@@ -1,0 +1,25 @@
+====================================================================================================
+=PERLU DIINGAT INI HANYA DOKUMENTASI UNTUK MEMBUAT TABEL DI MY SQL! JANGAN UBAH APAPUN KODINGANNYA!=
+====================================================================================================
+1. Create the database on MYSQL									   =
+CODE:												   =													
+CREATE DATABASE yourdatabasename;								   =		
+												   =	
+2. Use the database										   =	
+CODE:												   =		
+USE yourdatabasename;										   =						
+												   =	
+3. Creating field										   =
+CODE:												   =	
+CREATE TABLE car_counts (									   =
+    id INT AUTO_INCREMENT PRIMARY KEY,								   =
+    count INT,											   =
+    emptyslots INT,										   =
+    timestamp DATETIME										   =
+);												   =											 												   =
+====================================================================================================
+Jika ingin menampilkan output, buka SQL workbench, lalu ketikkan kode dibawah ini maka output akan =
+muncul						    						   =
+Code:												   =
+SELECT * FROM car_counts;									   =
+====================================================================================================
